@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="722.70" height="578.16" viewBox="0,0,722.70,578.16">
+<desc>R SVG Plot!</desc>
+<rect width="100%" height="100%" style="fill:#FFFFFF"/>
+<polygon points="0.00 , 578.16 0.00 , 0.00 722.70 , 0.00 722.70 , 578.16 " style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<polygon points="33.20 , 472.78 33.20 , 5.50 620.71 , 5.50 620.71 , 472.78 " style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:0.000000;fill-opacity:1.000000" />
+<polyline points="33.20 , 414.17 620.71 , 414.17 " style="stroke-width:0;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 294.09 620.71 , 294.09 " style="stroke-width:0;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 174.01 620.71 , 174.01 " style="stroke-width:0;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 53.93 620.71 , 53.93 " style="stroke-width:0;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 354.13 620.71 , 354.13 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 234.05 620.71 , 234.05 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="33.20 , 113.97 620.71 , 113.97 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="90.06 , 472.78 90.06 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="184.82 , 472.78 184.82 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="279.57 , 472.78 279.57 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="374.33 , 472.78 374.33 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="469.09 , 472.78 469.09 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="563.85 , 472.78 563.85 , 5.50 " style="stroke-width:1;stroke:#EBEBEB;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<circle cx="374.33" cy="390.43" r="10.17" style="stroke-width:0;stroke:#377EB8;fill:#377EB8;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<circle cx="469.09" cy="396.01" r="10.17" style="stroke-width:0;stroke:#4DAF4A;fill:#4DAF4A;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<circle cx="90.06" cy="26.74" r="10.17" style="stroke-width:0;stroke:#377EB8;fill:#377EB8;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<circle cx="279.57" cy="271.15" r="10.17" style="stroke-width:0;stroke:#377EB8;fill:#377EB8;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<circle cx="184.82" cy="246.91" r="10.17" style="stroke-width:0;stroke:#E41A1C;fill:#E41A1C;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<circle cx="563.85" cy="451.54" r="10.17" style="stroke-width:0;stroke:#4DAF4A;fill:#4DAF4A;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<text transform="translate(354.78,408.09)"  style="font-size:11" >3.40e-02</text>
+<text transform="translate(447.46,413.67)"  style="font-size:11" >2.48e-02</text>
+<text transform="translate(68.42,44.40)"  style="font-size:11" >2.48e-02</text>
+<text transform="translate(257.94,288.82)"  style="font-size:11" >4.64e-02</text>
+<text transform="translate(163.18,264.57)"  style="font-size:11" >1.93e-05</text>
+<text transform="translate(542.22,469.20)"  style="font-size:11" >4.64e-02</text>
+<polyline points="33.20 , 472.78 33.20 , 5.50 620.71 , 5.50 620.71 , 472.78 33.20 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<text transform="translate(23.30,357.43)"  style="font-size:9" >0</text>
+<text transform="translate(18.35,237.35)"  style="font-size:9" >10</text>
+<text transform="translate(18.35,117.27)"  style="font-size:9" >20</text>
+<polyline points="30.45 , 354.13 33.20 , 354.13 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="30.45 , 234.05 33.20 , 234.05 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="30.45 , 113.97 33.20 , 113.97 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="90.06 , 475.53 90.06 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="184.82 , 475.53 184.82 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="279.57 , 475.53 279.57 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="374.33 , 475.53 374.33 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="469.09 , 475.53 469.09 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<polyline points="563.85 , 475.53 563.85 , 472.78 " style="stroke-width:1;stroke:#333333;fill:#000000;stroke-opacity:1.000000;fill-opacity:0.000000"/>
+<text transform="translate(85.39,482.39) rotate(-315)"  style="font-size:9" >Megamonas</text>
+<text transform="translate(180.15,482.39) rotate(-315)"  style="font-size:9" >Collinsella</text>
+<text transform="translate(274.91,482.39) rotate(-315)"  style="font-size:9" >Flavonifractor</text>
+<text transform="translate(369.67,482.39) rotate(-315)"  style="font-size:9" >Erysipelotrichaceae_UCG-009</text>
+<text transform="translate(464.43,482.39) rotate(-315)"  style="font-size:9" >Anaplasma</text>
+<text transform="translate(559.19,482.39) rotate(-315)"  style="font-size:9" >Desulfovibrio</text>
+<text transform="translate(311.62,572.66)"  style="font-size:11" >Genus</text>
+<text transform="translate(13.75,279.26) rotate(-90)"  style="font-size:11" >log2FoldChange</text>
+<rect x="632.09" y="201.91" width="85.11" height="74.46" style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:0.000000;fill-opacity:1.000000" />
+<text transform="translate(637.78,215.85)"  style="font-size:11" >Phylum</text>
+<rect x="637.78" y="219.46" width="17.07" height="17.07" style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:0.000000;fill-opacity:1.000000" />
+<circle cx="646.32" cy="228.00" r="10.17" style="stroke-width:0;stroke:#E41A1C;fill:#E41A1C;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<rect x="637.78" y="236.53" width="17.07" height="17.07" style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:0.000000;fill-opacity:1.000000" />
+<circle cx="646.32" cy="245.07" r="10.17" style="stroke-width:0;stroke:#377EB8;fill:#377EB8;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<rect x="637.78" y="253.61" width="17.07" height="17.07" style="stroke-width:1;stroke:#FFFFFF;fill:#FFFFFF;stroke-opacity:0.000000;fill-opacity:1.000000" />
+<circle cx="646.32" cy="262.14" r="10.17" style="stroke-width:0;stroke:#4DAF4A;fill:#4DAF4A;stroke-opacity:1.000000;fill-opacity:1.000000" />
+<text transform="translate(656.66,231.30)"  style="font-size:9" >Actinobacteria</text>
+<text transform="translate(656.66,248.37)"  style="font-size:9" >Firmicutes</text>
+<text transform="translate(656.66,265.44)"  style="font-size:9" >Proteobacteria</text>
+</svg>
